@@ -1,0 +1,118 @@
+{
+  "project_info": {
+    "project_number": "692529261430",
+    "project_id": "ssmultiservice-d94a1",
+    "storage_bucket": "ssmultiservice-d94a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:692529261430:android:62f5af78000d7788152857",
+        "android_client_info": {
+          "package_name": "com.ssoftwares.ssmultiservice_customer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "692529261430-1eeh4e1lmdd07co45c1t2vitr71p9fir.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMmZ4A2UGvLbk4etsS9g67mfWamQg8xng"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "692529261430-1eeh4e1lmdd07co45c1t2vitr71p9fir.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "692529261430-nthep6vo82eni38nk1tlpdm9s0ci89kd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ssoftwares.ssmultiservice-customer"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:692529261430:android:17befbaa3d9a708e152857",
+        "android_client_info": {
+          "package_name": "com.ssoftwares.ssmultiservice_driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "692529261430-1eeh4e1lmdd07co45c1t2vitr71p9fir.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMmZ4A2UGvLbk4etsS9g67mfWamQg8xng"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "692529261430-1eeh4e1lmdd07co45c1t2vitr71p9fir.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "692529261430-nthep6vo82eni38nk1tlpdm9s0ci89kd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ssoftwares.ssmultiservice-customer"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:692529261430:android:c82e736ad011e446152857",
+        "android_client_info": {
+          "package_name": "com.ssoftwares.ssmultiservice_vendor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "692529261430-1eeh4e1lmdd07co45c1t2vitr71p9fir.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMmZ4A2UGvLbk4etsS9g67mfWamQg8xng"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "692529261430-1eeh4e1lmdd07co45c1t2vitr71p9fir.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "692529261430-nthep6vo82eni38nk1tlpdm9s0ci89kd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ssoftwares.ssmultiservice-customer"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
